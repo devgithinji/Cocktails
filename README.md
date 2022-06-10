@@ -1,15 +1,5 @@
-#### React Router Fix
+# Cocktails List Demo
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+Click [here](https://cocktails-list-demo-ke.netlify.app) to visit application
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+Dennis Githinji 👍
